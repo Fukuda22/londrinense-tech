@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+h1, h2, h3 {
+    margin: 5px;
+}
+
+.card {
+    background: linear-gradient(180deg, #f0f0f0, #b3b3b3);
+    color: black;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    width: 250px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+.brand {
+    display: block;
+    margin: 15px auto;
+    max-width: 150px;
+    height: auto;
+}
+
+.page {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.page a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: 0 5px;
+}
